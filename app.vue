@@ -1,6 +1,5 @@
 <template>
-  <div>
-    <NuxtWelcome />
-    <a href=".">gssfgg</a>
-  </div>
+  <nuxt-layout>
+    <nuxt-page />
+  </nuxt-layout>
 </template>
