@@ -25,6 +25,7 @@
     "*": "eslint --fix"
   },
   "dependencies": {
+    "@headlessui/vue": "^1.7.9",
     "daisyui": "^2.50.0"
   }
 }
