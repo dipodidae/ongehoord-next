@@ -1,7 +1,7 @@
 <script lang="ts" setup></script>
 
 <template>
-  <footer class="footer p-10 bg-neutral text-neutral-content">
+  <footer class="footer p-10 bg-green text-neutral-content">
     <div>
       <span class="footer-title">Services</span>
       <nuxt-link class="link link-hover">
