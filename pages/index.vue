@@ -3,19 +3,17 @@
 
 <template>
   <div>
-    <section class=" bg-slate-900 py-20">
+    <section class="bg-green-100 py-20">
       <div>
-        <header>
-          <h1 class="font-extrabold text-transparent text-8xl bg-clip-text bg-gradient-to-r from-green-600 to-green-700 text-center">
-            Ongehoord
+        <header class="font-extrabold text-transparent  bg-clip-text bg-gradient-to-r from-green-600 to-green-700 text-center">
+          <h1 class="text-6xl">
+            Ontdek hoe dieren worden behandeld
           </h1>
+          <h2 class="text-5xl">
+            Bekijk undercover beeldmateriaal
+            uit Nederlandse stallen
+          </h2>
         </header>
-        <p class="mb-5">
-          Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.
-        </p>
-        <button class="btn btn-primary">
-          Get Started
-        </button>
       </div>
     </section>
     <section class="bg-blue-900 py-20">

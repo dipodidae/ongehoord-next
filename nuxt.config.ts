@@ -2,7 +2,11 @@
 export default defineNuxtConfig({
   modules: [
     'nuxt-vitest',
+    '@nuxt/content',
     '@nuxt/devtools',
     '@nuxtjs/tailwindcss',
+    'nuxt-icon',
+    'nuxt-swiper',
+    '@nuxt/image-edge',
   ],
 })

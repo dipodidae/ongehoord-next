@@ -24,7 +24,7 @@ const items: NavigationItem[] = [
 </script>
 
 <template>
-  <div>
+  <div class="pb-20 bg-gray-50">
     <site-navigation :items="items" />
     <slot />
 
