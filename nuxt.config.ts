@@ -8,5 +8,7 @@ export default defineNuxtConfig({
     'nuxt-icon',
     'nuxt-swiper',
     '@nuxt/image-edge',
+    '@vueuse/nuxt',
+    'nuxt-lodash',
   ],
 })
