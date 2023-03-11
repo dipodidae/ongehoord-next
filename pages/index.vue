@@ -19,6 +19,7 @@
         <h1 class="text-4xl md:text-8xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-red-400 to-blue-600 text-center">
           Map
         </h1>
+        <locations-container sidebar />
       </header>
     </section>
   </div>
