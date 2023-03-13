@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Hypatia Sans Pro';
+    font-display: swap;
+    src: url('~/assets/fonts/HypatiaSansPro-Light.woff2') format('woff2'),
+        url('~/assets/fonts/HypatiaSansPro-Light.woff') format('woff'),
+        url('~/assets/fonts/HypatiaSansPro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hypatia Sans Pro';
+    font-display: swap;
+    src: url('~/assets/fonts/HypatiaSansPro-Regular.woff2') format('woff2'),
+        url('~/assets/fonts/HypatiaSansPro-Regular.woff') format('woff'),
+        url('~/assets/fonts/HypatiaSansPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hypatia Sans Pro';
+    font-display: swap;
+    src: url('~/assets/fonts/HypatiaSansPro-ExtraLight.woff2') format('woff2'),
+        url('~/assets/fonts/HypatiaSansPro-ExtraLight.woff') format('woff'),
+        url('~/assets/fonts/HypatiaSansPro-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hypatia Sans Pro';
+    font-display: swap;
+    src: url('~/assets/fonts/HypatiaSansPro-Semibold.woff2') format('woff2'),
+        url('~/assets/fonts/HypatiaSansPro-Semibold.woff') format('woff'),
+        url('~/assets/fonts/HypatiaSansPro-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hypatia Sans Pro';
+    font-display: swap;
+    src: url('~/assets/fonts/HypatiaSansPro-Black.woff2') format('woff2'),
+        url('~/assets/fonts/HypatiaSansPro-Black.woff') format('woff'),
+        url('~/assets/fonts/HypatiaSansPro-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Hypatia Sans Pro';
+    font-display: swap;
+    src: url('~/assets/fonts/HypatiaSansPro-Bold.woff2') format('woff2'),
+        url('~/assets/fonts/HypatiaSansPro-Bold.woff') format('woff'),
+        url('~/assets/fonts/HypatiaSansPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@layer components {
+  .title {
+    @apply md:text-8xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-green-600 text-center font-display
+  }
+  /* ... */
+}

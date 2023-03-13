@@ -5,7 +5,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        display: ['Hypatia'],
+        display: ['Hypatia Sans Pro', ...defaultTheme.fontFamily.sans],
         sans: ['Atkinson Hyperlegible', ...defaultTheme.fontFamily.sans],
       },
       colors: {

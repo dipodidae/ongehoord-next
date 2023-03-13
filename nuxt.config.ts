@@ -26,10 +26,17 @@ export default defineNuxtConfig({
     '@nuxt/image-edge',
     '@vueuse/nuxt',
     'nuxt-lodash',
+    '@pinia/nuxt',
   ],
+  tailwindcss: {
+    cssPath: '~/assets/css/input.css',
+  },
   googleFonts: {
     families: {
-      'Atkinson+Hyperlegible': true,
+      'Atkinson+Hyperlegible': {
+        wght: [400, 700],
+        ital: [400],
+      },
     },
   },
 })

@@ -23,11 +23,11 @@ const socials = [
 </script>
 
 <template>
-  <nav class="fixed z-10 w-full h-20 top-0 left-0 border-b bg-gradient-to-b from-blue-700 to-blue-700  border-blue-900 px-2 sm:px-4 py-2.5">
+  <nav class="fixed z-40 w-full h-20 top-0 left-0 border-b bg-gradient-to-b from-blue-700 to-blue-700  border-blue-900 px-2 sm:px-4 py-2.5">
     <div class="container flex flex-wrap items-center justify-between mx-auto">
       <nuxt-link to="/" class="flex items-center">
         <img src="~/assets/images/logo.svg" class="h-6 mr-3 sm:h-9" alt="Ongehoord logo">
-        <span class="self-center text-xl font-semibold whitespace-nowrap text-white">Ongehoord</span>
+        <span class="self-center text-xl font-semibold whitespace-nowrap text-white font-display">Ongehoord</span>
       </nuxt-link>
       <button data-collapse-toggle="navbar-default" type="button" class="inline-flex items-center p-2 ml-3 text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="navbar-default" aria-expanded="false">
         <span class="sr-only">Open main menu</span>

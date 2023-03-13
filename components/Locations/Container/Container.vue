@@ -23,6 +23,6 @@ const investigationTargetCategories: InvestigationTargetCategory[] = [
 <template>
   <div class="grid grid-cols-4">
     <locations-container-sidebar v-if="props.sidebar" :investigation-target-categories="investigationTargetCategories" />
-    <locations-map :class="{ 'col-span-3': props.sidebar }" :investigation-target-categories="investigationTargetCategories" />
+    <locations-map-loader :class="{ 'col-span-3': props.sidebar }" :investigation-target-categories="investigationTargetCategories" />
   </div>
 </template>

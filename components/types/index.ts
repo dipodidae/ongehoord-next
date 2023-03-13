@@ -1,6 +1,10 @@
 export { }
 
 declare global {
+  interface Window {
+    initMap: () => void
+  }
+
   interface GeoLocation {
     lat: number
     lng: number
