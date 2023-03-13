@@ -11,10 +11,10 @@ const breakpointClasses = useBreakpointClasses()
     class="md:min-h-120 min-h-full"
   >
     <div id="home-jumbotron-content">
-      <p class="font-display">
+      <p class="font-display text-3xl">
         Ontdek hoe dieren worden behandeld
       </p>
-      <p class="font-display">
+      <p class="font-display text-2xl">
         Bekijk undercover beeldmateriaal <br>
         uit Nederlandse stallen
       </p>
