@@ -3,15 +3,23 @@ const props = defineProps<{ item: any }>()
 </script>
 
 <template>
-  <div href="#" class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl md:mx-14 mx-4">
-    <nuxt-img class="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-l-lg h-40" src="https://picsum.photos/200/300" alt="" />
-    <div class="flex flex-col justify-between p-4 leading-normal">
-      <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+  <div class="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
+    <img class="lg:h-48 md:h-36 w-full object-cover object-center" src="https://dummyimage.com/721x401" alt="blog">
+    <div class="p-6">
+      <h4 class="title-font text-lg font-medium text-gray-900 mb-3">
         {{ props.item.title }}
-      </h5>
-      <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
-        Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.
+      </h4>
+      <p class="leading-relaxed mb-3">
+        Photo booth fam kinfolk cold-pressed sriracha leggings jianbing microdosing tousled waistcoat.
       </p>
+      <div class="flex items-center flex-wrap">
+        <nuxt-link v-slot="{ on }" to="/test">
+          <ongehoord-button v-on="on">
+            Lees meer
+          </ongehoord-button>
+        </nuxt-link>
+        <ongehoord-share class="lg:ml-auto md:ml-0 ml-auto" />
+      </div>
     </div>
   </div>
 </template>

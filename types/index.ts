@@ -3,7 +3,7 @@ export { }
 declare global {
   interface GeoLocation {
     lat: number
-    lon: number
+    lng: number
   }
 
   interface InvestigationTarget {

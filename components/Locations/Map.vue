@@ -5,14 +5,14 @@ const props = defineProps<{
 
 const center: GeoLocation = {
   lat: 49.9799903,
-  lon: 1.3637905,
+  lng: 1.3637905,
 }
 </script>
 
 <template>
   <GMapMap
     :center="center"
-    :zoom="15"
+    :zoom="7"
     :options="{
       zoomControl: true,
       mapTypeControl: false,
@@ -21,6 +21,6 @@ const center: GeoLocation = {
       rotateControl: false,
       fullscreenControl: true,
     }"
-    style="height: 100%; "
+    class="h-full"
   />
 </template>

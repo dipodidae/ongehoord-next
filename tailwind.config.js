@@ -1,7 +1,13 @@
+const defaultTheme = require('tailwindcss/defaultTheme')
+
 module.exports = {
   plugins: [require('flowbite/plugin')],
   theme: {
     extend: {
+      fontFamily: {
+        display: ['Hypatia'],
+        sans: ['Atkinson Hyperlegible', ...defaultTheme.fontFamily.sans],
+      },
       colors: {
         blue: {
           DEFAULT: '#2F52B8',
