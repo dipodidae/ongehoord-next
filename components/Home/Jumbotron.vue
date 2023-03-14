@@ -1,65 +1,20 @@
-<script lang="ts" setup>
-const breakpointClasses = useBreakpointClasses()
-</script>
-
 <template>
-  <video-background
-    id="home-jumbotron"
-    src="/videos/home-jumbotron.mp4"
-    overlay="linear-gradient(0deg,#15634bff,#26b48980)"
-    :class="breakpointClasses"
-    class="md:min-h-120 min-h-full"
-  >
-    <div id="home-jumbotron-content">
-      <p class="font-display text-3xl">
+  <header id="home-jumbotron" class="from-green-700 to-green-500 bg-gradient-to-b relative flex items-center justify-center mb-12 overflow-hidden">
+    <div class="relative z-30 p-10 text-3xl font-display text-white border-y-2 border-white/20">
+      <p class="text-4xl mb-4 font-semibold">
         Ontdek hoe dieren worden behandeld
       </p>
-      <p class="font-display text-2xl">
-        Bekijk undercover beeldmateriaal <br>
-        uit Nederlandse stallen
-      </p>
+      <p>Bekijk undercover beeldmateriaal uit Nederlandse stallen</p>
     </div>
-  </video-background>
+    <div class="absolute z-20 w-auto min-w-full min-h-full max-w-none from-green-800/80 to-green-500/90 bg-gradient-to-b" />
+    <video autoplay loop muted class="absolute z-10 w-auto min-w-full min-h-full max-w-none">
+      <source src="/videos/home-jumbotron.mp4" type="video/mp4">
+    </video>
+  </header>
 </template>
 
 <style scoped>
 #home-jumbotron {
-  mask-size: 2000px;
-  mask-repeat: no-repeat;
-  mask-position: center bottom;
-}
-
-#home-jumbotron.is-md {
-  mask-image: url('~/assets/masks/jumbotron-mask.svg');
-  height: 501px;
-}
-#home-jumbotron.is-sm {
-  height: 400px;
-  mask-image: url('~/assets/masks/jumbotron-mask-sm.svg');
-}
-
-#home-jumbotron :deep(.videobg-content) {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-#home-jumbotron-content {
-  padding: 59px;
-  border: 2px solid rgb(255 255 255 / 90%);
-  border-width: 2px 0;
-  color: white;
-  text-shadow: 0 1px 1px #000;
-  line-height: 1.5;
-  font-family: "hypatia";
-  font-weight: 500;
-  max-width: 800px;
-
-  margin-top: -36px;
-  display: flex;
-  flex-direction: column;
-  align-content: center;
-  align-items: left;
-
+  height: 50vh;
 }
 </style>

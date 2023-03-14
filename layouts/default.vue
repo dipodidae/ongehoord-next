@@ -24,12 +24,10 @@ const items: NavigationItem[] = [
 </script>
 
 <template>
-  <div class="mt-20 bg-gray-50">
-    <application-navigation :items="items" />
-    <slot />
+  <application-navigation :items="items" />
+  <slot />
 
-    <site-footer />
-  </div>
+  <application-footer />
 </template>
 
 <style scoped></style>

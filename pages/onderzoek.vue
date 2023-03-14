@@ -1,9 +1,14 @@
 <script lang="ts" setup></script>
 
 <template>
-  <div>
-    Page: foo
-  </div>
+  <article>
+    <header>
+      <h1 class="title">
+        Onderzoek
+      </h1>
+    </header>
+    <ContentDoc path="/onderzoek" />
+  </article>
 </template>
 
 <style scoped></style>
