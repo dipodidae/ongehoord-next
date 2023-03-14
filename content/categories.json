@@ -1,0 +1,22 @@
+[
+  {
+    "label": "varkens",
+    "singular": "varken",
+    "key": "pigs"
+  },
+  {
+    "label": "kippen",
+    "singular": "kip",
+    "key": "chickens"
+  },
+  {
+    "label": "nertsen",
+    "singular": "nerts",
+    "key": "mink"
+  },
+  {
+    "label": "konijnen",
+    "singular": "konijn",
+    "key": "rabbit"
+  }
+]
