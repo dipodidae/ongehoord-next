@@ -8,4 +8,3 @@ video: 'https://youtu.be/PABe8t0h7hE'
 title: 'Koningsbosch  | Heugenderweg 8'
 article-date: '2013-08-29 14:24:04'
 ---
-

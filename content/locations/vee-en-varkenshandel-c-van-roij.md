@@ -7,4 +7,3 @@ video: 'https://vimeo.com/778425226'
 title: 'Vee- en Varkenshandel C. van Roij'
 article-date: '2022-12-06 10:58:25'
 ---
-

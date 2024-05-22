@@ -13,8 +13,7 @@ title: 'NVWA nog steeds in de fout'
 article-date: '2021-09-21 19:49:36'
 ---
 
-Ernstig zieke dieren geëxporteerd naar buitenlandse slachthuizen
-----------------------------------------------------------------
+## Ernstig zieke dieren geëxporteerd naar buitenlandse slachthuizen
 
 Uit documenten die onderzoeksgroep Ongehoord vandaag naar buiten brengt, blijkt dat de Nederlandse Voedsel- en Warenautoriteit (NVWA) nog steeds de regels niet naleeft bij de export van dieren. Zieke en gewonde dieren mogen niet op transport gezet worden. Toch kwamen bij Vlaamse slachthuizen het afgelopen anderhalf jaar koeien aan met opgezwollen uiers en pootproblemen. Bijna honderd varkens hadden gezwellen, abcessen, ontstekingen en andere ernstige aandoeningen. De recente beloftes van minister Schouten over verscherpt toezicht lijken hiermee ongeloofwaardig.
 
@@ -40,9 +39,7 @@ Een koe had een groot abces op de kop, waarvan de huid deels was afgestorven. Oo
 
 ![](https://rest.ongehoord.info/wp-content/uploads/2021/09/Foto-3-abces-kop-oog-2.jpg)Foto 3: absces op oog
 
-![](https://rest.ongehoord.info/wp-content/uploads/2021/09/Foto-4-gezwel-poot-1.jpg)Foto 4: gezwel poot 
-
-
+![](https://rest.ongehoord.info/wp-content/uploads/2021/09/Foto-4-gezwel-poot-1.jpg)Foto 4: gezwel poot
 
 Meerdere varkens werden aangevoerd met pootproblemen waardoor de dieren kreupel liepen. Als oorzaken werden genoemd: een heupfractuur, artritis, ontstekingen en abcessen (foto 4). Sommige varkens hadden extreem grote navelbreuken, een uitstulping van de darmen. De huid kan daardoor over de grond slepen, met wonden en afstervende huid tot gevolg (foto 5). Een groot aantal dieren had matige tot zeer ernstige wonden door staart- en oorbijten (foto 6). Een zeug wiens baarmoeder door de vagina naar buiten stulpte, had een transporttijd van vijf uur moeten doorstaan (foto 7).
 
@@ -52,8 +49,6 @@ Meerdere varkens werden aangevoerd met pootproblemen waardoor de dieren kreupel 
 
 ![](https://rest.ongehoord.info/wp-content/uploads/2021/09/Foto-7-ernstige-prolaps-1-860x1024.jpg)Foto 7: ernstige prolaps
 
-
-
 ### Niet transportwaardig, wel geschikt voor humane consumptie
 
 Volgens dierenwelzijnswetgeving moeten dieren met ernstige gezondheidsproblemen geëuthanaseerd worden op de boerderij, om ze vervolgens af te voeren naar een destructiebedrijf. Euthanasie en destructie brengen kosten mee die veehouders liever niet maken. Door ongeschikte dieren toch naar een slachthuis te transporteren, verdient de veehouder geld. Slechte stukken zoals navelbreuken en abcessen worden na het slachten weggesneden, de rest van het karkas wordt gebruikt voor humane consumptie. Alleen kadavers van dieren met aandoeningen die gevaar opleveren voor de volksgezondheid, worden volledig afgekeurd en vernietigd.
@@ -62,4 +57,4 @@ Volgens dierenwelzijnswetgeving moeten dieren met ernstige gezondheidsproblemen 
 
 ::contentAnnotation{ids="4"}[In 2020 kwam Ongehoord al met beelden waarop NVWA-dierenartsen varkens sloegen in een slachthuis.] ::contentAnnotation{ids="5"}[Een toezichthouder van een kippenslachter in Friesland hielp zelf bij de werkzaamheden van de slachter.] Onderzoeksgroep Ongehoord noemt het NVWA-toezicht op landbouwdieren een beschamende vertoning.
 
-De documenten van de Vlaamse inspectiedienst maken pijnlijk duidelijk dat de belangen van de industrie zwaarder doorwegen dan het dierenwelzijn. Johan Boonstra, woordvoerder Ongehoord: *“Als je de foto's bekijkt, weet je dat NVWA-dierenartsen moedwillig zieke dieren goedkeuren. Varkens met voetbalgrote navelbreuken en abcessen of een koe met een bloederige wond aan het oog, dat zijn dingen die je niet over het hoofd ziet.”*
+De documenten van de Vlaamse inspectiedienst maken pijnlijk duidelijk dat de belangen van de industrie zwaarder doorwegen dan het dierenwelzijn. Johan Boonstra, woordvoerder Ongehoord: _“Als je de foto's bekijkt, weet je dat NVWA-dierenartsen moedwillig zieke dieren goedkeuren. Varkens met voetbalgrote navelbreuken en abcessen of een koe met een bloederige wond aan het oog, dat zijn dingen die je niet over het hoofd ziet.”_

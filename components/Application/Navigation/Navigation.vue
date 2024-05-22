@@ -3,24 +3,6 @@ const props = defineProps<{
   items: any[]
 }>()
 
-const socials = [
-  {
-    label: 'Twitter',
-    iconName: 'cib:twitter',
-    to: 'twitter',
-  },
-  {
-    label: 'Instagram',
-    iconName: 'cib:instagram',
-    to: 'instagram',
-  },
-  {
-    label: 'Facebook',
-    iconName: 'cib:facebook',
-    to: 'facebook',
-  },
-]
-
 const { y } = useWindowScroll()
 
 const scrollColorsOpaque = 'shadow-blue-600/0 border-blue-700/0'

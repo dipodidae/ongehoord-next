@@ -17,8 +17,7 @@ title: 'Caring Farmers'
 article-date: '2021-10-30 10:05:59'
 ---
 
-Belangenorganisatie Caring Farmers
-----------------------------------
+## Belangenorganisatie Caring Farmers
 
 Caring Farmers is een belangenorganisatie voor “natuurinclusieve kringloopboeren”. De organisatie is twee jaar geleden opgericht, toen minister Carola Schouten aangaf dat de toekomst van de Nederlandse boer ligt bij kringlooplandbouw. ::contentAnnotation{ids="1"}[Volgens het recentste jaarverslag (2020) zijn 225 boeren aangesloten bij Caring Farmers, waaronder akkerbouwers, veehouders en gemengde bedrijven.]::contentAnnotation{ids="2"}[] ::contentAnnotation{ids="3"}[]
 
@@ -26,8 +25,7 @@ Op haar website benoemt de organisatie als belangrijke thema’s: natuur, kringl
 
 Dierenwelzijn verbeteren wordt voorgesteld als een belangrijke doelstelling voor de Caring Farmers. In hun code verklaren de Farmers “dieren te erkennen als levende intelligente wezens met emoties en gevoelens. ::contentAnnotation{ids="4"}[Er wordt uitgegaan van de behoeften van dieren en daarnaar gehandeld.”] ::contentAnnotation{ids="5"}[]
 
-Samenwerking Dierenbescherming: Deltaplan Veehouderij
------------------------------------------------------
+## Samenwerking Dierenbescherming: Deltaplan Veehouderij
 
 De Caring Farmers zijn een partnerschap aangegaan met de Dierenbescherming om samen te werken aan het Deltaplan Veehouderij. ::contentAnnotation{ids="6"}[Dit is een initiatief van de Dierenbescherming om de veehouderij "diergericht en duurzaam" te maken. De Caring Farmers en de Dierenbescherming willen samen projecten opzetten om het dierenwelzijn in de veehouderij “verder te verbeteren”.]
 
@@ -35,15 +33,13 @@ Caring Farmer Annechien ten Have, in wiens bedrijf Ongehoord zieke en gewonde va
 
 Het Deltaplan Veehouderij is niet gericht op het beëindigen van de veehouderij, wat de belangrijkste en meest effectieve oplossing is om een einde te maken aan het dierenleed. In plaats daarvan wordt gewerkt aan toekomstperspectief voor veehouders via het bekende paadje van ‘welzijnsverbeteringen’. Op deze wijze worden vooral de belangen van veehouders behartigd, niet de belangen van de dieren.
 
-Een gebed zonder einde
-----------------------
+## Een gebed zonder einde
 
 De onderzoeken die Ongehoord het afgelopen decennium uitvoerde in de Nederlandse veehouderij, toonden aan dat dierenwelzijnsverbeteringen in de veehouderij niet leiden tot fundamentele oplossingen voor de dieren. De onderzoeksgroep brengt sinds 2011 beelden naar buiten van ernstig dierenleed, zowel in de gangbare veehouderij als in biologische stallen en Beter Leven bedrijven.
 
 De bevindingen van Ongehoord worden gesteund door wetenschappelijk onderzoek. ::contentAnnotation{ids="8"}[Dierenwelzijnsverbeteringen brengen vaak nieuwe problemen met zich mee. Het overschakelen van kooisystemen voor leghennen naar scharrelvolières resulteerde in meer botbreuken bij de dieren.] ::contentAnnotation{ids="9"}[Groepshuisvesting voor moedervarkens, sinds 2013 verplicht door Europese dierenwelzijnswetgeving, zorgde voor meer agressieproblemen en klauwaandoeningen.] ::contentAnnotation{ids="10"}[In vrijloopkraamhokken, het alternatief voor kraamkooien, worden aanzienlijk meer biggen dood geplet door hun moeders.] ::contentAnnotation{ids="11"}[De Europese Autoriteit voor Voedselveiligheid (EFSA) wijst op een aanzienlijk risico van varkenspest bij varkensbedrijven met buitenloop. Ook in het rapport “Dierenwelzijn in de Kringlooplandbouw” (Raad voor Dierenaangelegenheden, 2020) wordt gewezen op verhoogde ziekterisico's voor productiedieren die buiten lopen, zoals vogelgriep bij kippen, tetanus, ziekte van Weil en huidverbranding bij varkens en leverbot bij koeien.]
 
-Stop met veehouderij
---------------------
+## Stop met veehouderij
 
 Uit het Ongehoord onderzoek in veebedrijven van Caring Farmers blijkt opnieuw dat dierenwelzijn in de veehouderij voornamelijk op papier bestaat. Op beelden van de bedrijven van Caring Farmers Annechien ten Have en Jan Broenink waren zieke, gestreste en gewonde varkens te zien. In een nieuwe publicatie toont Ongehoord nu kreupele en dode kippen in Caring Farmers’ pluimveebedrijven.
 

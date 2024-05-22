@@ -8,4 +8,3 @@ video: 'https://youtu.be/0Y3hrXL9kks'
 title: 'Mierlo | Heiderschoor 2'
 article-date: '2013-08-29 14:24:00'
 ---
-

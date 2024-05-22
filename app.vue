@@ -1,5 +1,13 @@
+<script setup lang="ts">
+import { appName } from '~/constants'
+
+useHead({
+  title: appName,
+})
+</script>
+
 <template>
-  <nuxt-layout>
-    <nuxt-page />
-  </nuxt-layout>
+  <NuxtLayout>
+    <NuxtPage />
+  </NuxtLayout>
 </template>

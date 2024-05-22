@@ -22,8 +22,7 @@ Ongehoord heeft een jaar lang onderzoek verricht naar de leefomstandigheden van 
 
 Het leven van productiekippen, zowel in de eier- als in de vleesindustrie, verschilt sterk van een natuurlijk kippenleven. Leghennen en vleeskuikens worden kunstmatig uitgebroed in broederijen, ze groeien op zonder hun moeder. Dit geldt voor de gehele kippenindustrie (regulier, Beter Leven en biologisch). In natuurlijke omstandigheden brengen kuikens hun eerste levensdagen door aan de zijde van hun moeder, waar ze warmte en bescherming vinden. De daaropvolgende weken leert de moederhen de kuikens essentiële gedragingen zoals voedsel zoeken, stofbaden en een veilige slaapplek uitkiezen op een tak van een boom. Pas na acht weken beginnen de kuikens zelfstandig op zoek te gaan naar eten, maar ze blijven nog in de buurt van hun moeder. ::contentAnnotation{ids="14"}[Op de leeftijd van 18 weken sluiten ze aan bij de rest van de kippengroep.]
 
-Dode leghennen in de uitloop van Martijn Vonk
----------------------------------------------
+## Dode leghennen in de uitloop van Martijn Vonk
 
 In het Gelderse Loil houdt Caring Farmer Martijn Vonk 43. 000 leghennen in 2 volièrestallen. ::contentAnnotation{ids="15"}[Vonk bouwde een stal om tot Beter Leven stal (1 ster) vanwege de meerprijs die het keurmerk oplevert voor de eieren.]
 
@@ -39,8 +38,7 @@ In het bedrijf van Vonk filmde Ongehoord meerdere zwakke, zieke en dode dieren. 
 
 Aan de Beter Leven stal is een overdekte uitloop gebouwd. De uitloop heeft een betonvloer, een dak en wanden van gaas, er zijn geen planten of bomen. In de scheidingswand tussen stal en uitloop zijn openingen waardoor de hennen zich kunnen verplaatsen. De openingen zijn voorzien van luiken die ’s ochtends open gaan, en s’ avonds weer gesloten worden. Het onderzoeksteam trof bij Vonk dode hennen aan die verongelukt waren tijdens het sluiten van de luiken. De dieren waren klem geraakt met de kop onder een luik, wat geleid heeft tot hun dood. Omdat het onderzoeksteam meerdere dode dieren onder verschillende luiken aantrof, is het aannemelijk dat dergelijke ‘ongelukjes’ dagelijks voorkomen.
 
-Kreupele vleeskuikens bij Johan Leenders
-----------------------------------------
+## Kreupele vleeskuikens bij Johan Leenders
 
 Caring Farmer Johan Leenders heeft in Swifterbant (Flevoland) twee stallen voor vleeskuikens met 1 Beter Leven ster van de Dierenbescherming. De kuikens kunnen niet buiten lopen. Ze brengen hun leven door op een betonvloer met een laag strooisel. Overdag valt er licht in de stal via dakramen en kunnen de dieren in een overdekte uitloop. Ook in de uitloop bestaat de ondergrond uit een betonvloer met strooisel. De buitenwand van de uitloop bestaat uit gaasdoek. Het Beter Leven keurmerk schrijft voor dat er in een stal 12 kuikens per vierkante meter mogen gehouden worden. Per stal kan Leenders 17. 500 ::contentAnnotation{ids="21"}[ Beter Leven kuikens houden.]
 

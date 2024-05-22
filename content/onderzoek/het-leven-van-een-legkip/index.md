@@ -7,10 +7,9 @@ title: 'Het leven van een legkip'
 article-date: '2017-12-14 15:44:45'
 ---
 
-Kip of het ei
--------------
+## Kip of het ei
 
- De eierindustrie kwam de afgelopen jaren negatief in het nieuws. Het Fipronil schandaal, de vogelgriep, de hoge uitval cijfers, eendagskuikens en de grote welzijnsproblemen bij leghennen.Vaak ontbrak het in de berichtgeving van een bredere context om de dieper liggende oorzaken van deze problemen te kunnen zien of worden zaken eenzijdig belicht.
+De eierindustrie kwam de afgelopen jaren negatief in het nieuws. Het Fipronil schandaal, de vogelgriep, de hoge uitval cijfers, eendagskuikens en de grote welzijnsproblemen bij leghennen.Vaak ontbrak het in de berichtgeving van een bredere context om de dieper liggende oorzaken van deze problemen te kunnen zien of worden zaken eenzijdig belicht.
 
 De industrie zelf nam initiatieven om het imago op te poetsen, bijvoorbeeld met de Rondeel stal of het nieuwe Kipster.
 

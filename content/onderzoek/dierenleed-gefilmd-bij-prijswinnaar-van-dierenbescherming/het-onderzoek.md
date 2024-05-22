@@ -17,16 +17,13 @@ article-date: '2021-10-31 10:16:09'
 
 In juni en september 2021 deed Ongehoord onderzoek naar de wroetvarken-keten. Een onderzoeksteam bezocht de stallen van oprichter Broenink en van subfokker Tijink om er de leefomstandigheden van de varkens te filmen. Zowel in de subfokkerij als in de wroetstal werd ernstig dierenleed vastgesteld.
 
-Varkens met ernstige bijtwonden in de wroetstal van oprichter Broenink
-----------------------------------------------------------------------
-
+## Varkens met ernstige bijtwonden in de wroetstal van oprichter Broenink
 
 ::content-video
----
-url: https://vimeo.com/641289720
----
-::
 
+## url: https://vimeo.com/641289720
+
+::
 
 Het onderzoeksteam bezocht de wroetstal van Jan Broenink in Langeveen, die vergund is om 1000 vleesvarkens te houden. In het bedrijf waren opgroeiende vleesvarkens van verschillende leeftijden aanwezig. Ongehoorde filmde bij Broenink varkens met ernstige wonden door staart- en oorbijterij, schrammen en wonden op het lichaam, navelbreuken, en ernstige kreupelheid.
 
@@ -34,16 +31,13 @@ Het strooisel in de hokken, waarin de varkens “wroeten” en leven, was vervui
 
 In de voerbakken van de varkens wemelde het van de vliegen. ::contentAnnotation{ids="20"}[Uit onderzoek is gebleken dat vliegen een groot aantal ziekten kunnen overbrengen, waaronder verschillende vormen van diarree, Salmonellose, de Ziekte van Aujeszky en varkenspest.] ::contentAnnotation{ids="21"}[Vliegen kunnen niet alleen ziektes overbrengen, ze zorgen ook voor onrust en ongemak bij de varkens.] In de natuur nemen varkens modderbaden. ::contentAnnotation{ids="22"}[De modderkorst die hierdoor op hun huid ontstaat, beschermt hen tegen vliegen.]
 
-Subfokker Tijink: wonden, kreupelheid, huidziekten
---------------------------------------------------
+## Subfokker Tijink: wonden, kreupelheid, huidziekten
 
+## ::content-video
 
-::content-video
----
-url: https://vimeo.com/643194715
----
+## url: https://vimeo.com/643194715
+
 ::
-
 
 In de fokkerij van Tijink waren varkens van diverse leeftijden aanwezig. De dieren zaten in hokken met betonvloeren en roosters, zonder strooisel. Ook in dit bedrijf wemelde het van de vliegen.
 
@@ -53,8 +47,7 @@ Een paar varkens hadden abnormale huiduitslag over het gehele lichaam. De dieren
 
 Buiten de stal, op het bedrijfsterrein, trof het onderzoeksteam twee kadavertonnen aan. De tonnen zaten vol met voornamelijk dode kraambiggen, en enkel grotere biggen. Dode biggen zijn dagelijkse kost bij varkensbedrijven. In de Nederlandse varkensindustrie sterven 12,2% van de biggen in de kraamstal. ::contentAnnotation{ids="23"}[Bij moedervarkens bedraagt de voortijdige sterfte 6%, en bij vleesvarkens 2,5%.] Op jaarbasis gaat het om 4 miljoen kraambiggen en ruim een half miljoen vleesvarkens en moedervarkens.
 
-Welzijnsproblemen gerelateerd aan veehouderij
----------------------------------------------
+## Welzijnsproblemen gerelateerd aan veehouderij
 
 De misstanden die in de subfokkerij en de wroetstal gefilmd werden komen overeen met typische welzijnsproblemen uit de gangbare varkensindustrie. Hieruit blijkt dat het wroetvarken-concept ernstig dierenleed niet kan voorkomen.
 

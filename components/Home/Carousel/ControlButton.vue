@@ -1,5 +1,5 @@
 <script lang="ts" setup>
-const props = defineProps<{ label: string; iconName: string }>()
+const props = defineProps<{ label: string, iconName: string }>()
 </script>
 
 <template>

@@ -43,8 +43,7 @@ article-date: '2022-09-07 12:19:27'
 
 Varkens met wonden, abcessen, luchtwegproblemen, dode varkens en vervuilde hokken. Het is te zien in het onderzoek naar Beter Leven stal Houbensteyn in Ysselsteyn, Limburg. Met bijna honderdduizend varkens in 10 vestigingen en 15 miljoen euro subsidie is eigenaar Martin Houben een grote speler. De onderzochte vestiging heeft een zichtruimte, bezoekers kunnen een klein deel van de varkens bekijken. Toen het onderzoeksteam andere delen van de locatie bezocht, troffen ze de misstanden aan. De hokken voldoen niet aan regelgeving en Beter Leven eisen. Met minstens 12.000 vleesvarkens is de locatie een megastal, wat verboden is voor het Beter Leven keurmerk
 
-Het onderzoek
--------------
+## Het onderzoek
 
 ### De publieke zichtruimte van Houbensteyn
 
@@ -62,7 +61,7 @@ Varkens zijn nieuwsgierige, intelligente dieren. In hun natuurlijke habitat (bos
 
 Volgens artikel 1.3 van de Wet dieren moeten dieren gevrijwaard zijn van beperkingen in natuurlijk gedrag. Op beton- en roostervloeren, de standaard stalvloer in de varkensindustrie, kunnen varkens hun natuurlijk gedrag (wroeten in los materiaal met hun hoofd omlaag) niet uitoefenen.
 
-De Europese richtlijn 2008/120 bepaalt dat varkens permanent moeten kunnen beschikken over afleidingsmateriaal. Volgens de brochure *“Informatiefolder verrijkingsmateriaal varkens”* van de Stichting Beter Leven keurmerk voldoen strokokers als verrijking, hoewel ze dus staartbijten niet voorkomen. ::contentAnnotation{ids="7"}[De strokokers dienen permanent gevuld te zijn.]::contentAnnotation{ids="8"}[]
+De Europese richtlijn 2008/120 bepaalt dat varkens permanent moeten kunnen beschikken over afleidingsmateriaal. Volgens de brochure _“Informatiefolder verrijkingsmateriaal varkens”_ van de Stichting Beter Leven keurmerk voldoen strokokers als verrijking, hoewel ze dus staartbijten niet voorkomen. ::contentAnnotation{ids="7"}[De strokokers dienen permanent gevuld te zijn.]::contentAnnotation{ids="8"}[]
 
 Op de beelden van Ongehoord zijn varkens te zien die in elkaars oren bijten, aan spenen van een soortgenoot sabbelen, en met een dode hokgenoot spelen. De dieren beschikken niet permanent over afleidingsmateriaal: de strokokers die Houbensteyn als hokverrijking gebruikt waren leeg. Het spinrag in de kokers laat vermoeden dat ze al geruime tijd niet bijgevuld werden.
 
@@ -86,12 +85,11 @@ In een hok filmde Ongehoord een varken dat voortijdig overleden was. Geen verras
 
 Onderzoek van Ongehoord door de jaren heen toont keer op keer aan dat dierenwelzijnswetten, maatregelen en keurmerken niet voorkomen dat dieren ernstig lijden voor voedselproductie.
 
-De Houbensteyn Group
---------------------
+## De Houbensteyn Group
 
 ### Giga varkensbedrijf
 
-De Houbensteyn Groep omvat een twaalftal vestigingen in Ysselsteyn, Heide en Grubbenvorst. Het gaat om mesterijen waar vleesvarkens afgemest worden voor de slacht en vermeerderingsbedrijven waar moedervarkens biggen werpen. ::contentAnnotation{ids="17"}[Ook is er een KI station waar beren sperma produceren voor kunstmatige inseminatie. Daarnaast heeft de groep fabrieken voor mengvoederproductie en mestverwerking.]  
+De Houbensteyn Groep omvat een twaalftal vestigingen in Ysselsteyn, Heide en Grubbenvorst. Het gaat om mesterijen waar vleesvarkens afgemest worden voor de slacht en vermeerderingsbedrijven waar moedervarkens biggen werpen. ::contentAnnotation{ids="17"}[Ook is er een KI station waar beren sperma produceren voor kunstmatige inseminatie. Daarnaast heeft de groep fabrieken voor mengvoederproductie en mestverwerking.]
 Volgens Kernregistratie Dierverblijven Limburg, een database met gegevens van vergunningen en meldingen van veehouderijen, is de Houbensteyn Groep vergund om in totaal 99.500 moedervarkens, beren, jonge biggen en vleesvarkens te houden. ::contentAnnotation{ids="18"}[Biggetjes tot 4 – 5 weken oud, die nog bij de moeder drinken, zijn hier niet in meegerekend.]
 
 Het exacte aantal dieren in de stallen van Houbensteyn is onbekend, omdat vergunningsaantallen en werkelijke aantallen afwijkingen kunnen vertonen. De grootste vestiging van de Houbensteyn Groep is de omstreden gigastal aan de Laagheide in Grubbenvorst. In deze etagestal worden meer dan 30.000 varkens gehouden.

@@ -1,8 +1,4 @@
 <script setup lang="ts">
-const props = defineProps<{
-  investigationTargetCategories: InvestigationTargetCategory[]
-}>()
-
 const mapElement = ref()
 
 const mapId = '459ac89d964cd5c8'
@@ -18,13 +14,10 @@ const mapOptions: google.maps.MapOptions = {
   mapId,
 }
 
-let map: google.maps.Map
+const mapInstance = ref()
 
-function initializeMap() {
-  map = new google.maps.Map(document.getElementById('map') as HTMLElement, mapOptions)
-}
 onMounted(() => {
-  nextTick(initializeMap)
+  mapInstance.value = new google.maps.Map(mapElement.value, mapOptions)
 })
 </script>
 

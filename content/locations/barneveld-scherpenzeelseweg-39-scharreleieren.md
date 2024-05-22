@@ -8,4 +8,3 @@ video: 'https://youtu.be/vvIdpuhRxUk'
 title: 'Barneveld | Scherpenzeelseweg 39 | Scharreleieren'
 article-date: '2017-12-19 21:27:47'
 ---
-

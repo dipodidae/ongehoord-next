@@ -35,8 +35,7 @@ article-date: '2022-12-06 10:51:03'
 
 In december 2022 publiceert onderzoeksgroep Ongehoord beelden van varkens die tijdens hun laatste levensdagen worden geslagen, getrapt en met een taser opgejaagd. De onderzoekers plaatsten verborgen camera's bij Beter Leven stallen en een zogenaamde vee-verzamelplaats. Zo filmden zij het in- en uitladen van dieren voor transport . Hoewel veetransporten al jaren onder vuur liggen en al talloze verbeteringen aangekondigd werden door de sector zelf, het landbouwministerie en de NVWA, blijkt uit de beelden dat dierenleed niet te voorkomen is zolang dieren op transport gezet worden.
 
-Ernstige mishandeling en zieke dieren op de verzamelplaats
-----------------------------------------------------------
+## Ernstige mishandeling en zieke dieren op de verzamelplaats
 
 In Reusel (Noord-Brabant) plaatste onderzoeksgroep Ongehoord een camera bij de verzamelplaats van Vee- en Varkenshandel C. van Roij. Hier worden dieren verzameld van verschillende fokkerijen, om daarna naar het slachthuis gebracht te worden. Hoewel de organisatie slechts enkele dagen filmde op de locatie, legden zij verschillende misstanden vast.
 
@@ -44,8 +43,7 @@ Meerdere varkens moesten in het verzamelcentrum afgemaakt worden omdat ze te zie
 
 ::contentAnnotation{ids="2"}[Hoewel er ook een wettelijke verplichting is om zieke dieren “zo spoedig mogelijk” eerste hulp te geven (een diergeneeskundige behandeling of euthanasie), werd een ziek moedervarken een hele nacht aan haar lot overgelaten.] De volgende ochtend werd het dier meermaals tegen het hoofd getrapt, om vervolgens geschoten te worden. ::contentAnnotation{ids="3"}[Een andere zeug werd getrapt, getaserd op het hoofd en bij de staart opgetrokken, of anders gezegd: in enkele seconden tijd werden minstens drie wetsinbreuken gepleegd.] Meerdere keren was te zien dat biggetjes en moedervarkens werden getrapt en geslagen met stukken tuinslang.
 
-Klappers en elektrische prikkers voor Beter Leven varkens
----------------------------------------------------------
+## Klappers en elektrische prikkers voor Beter Leven varkens
 
 In Nederland is er slechts éen keurmerk dat eisen stelt aan het transport. Dat is opvallend genoeg niet het biologische EKO-keurmerk, maar het veel lichtere Beter Leven keurmerk. Ongehoord laat daarom ook zien hoe varkens bij Beter Leven boerderijen de vrachtwagen in gejaagd worden.
 
@@ -53,15 +51,13 @@ Bij het varkensbedrijf van Annechien ten Have-Mellema (2 Beter Leven sterren) wo
 
 Bij Martin Houben te Ysselstein (1 Beter Leven ster) worden vleesvarkens opgejaagd met elektrische prikkers, wat verboden is, zowel door de wet als voor het keurmerk. ::contentAnnotation{ids="6"}[Kort geleden liet Ongehoord al zien dat Houben zich niet aan het Beter Leven keurmerk hield in zijn stallen.] De Dierenbescherming heeft tot nu toe nog geen sancties genomen.
 
-Stress en geweld horen erbij
-----------------------------
+## Stress en geweld horen erbij
 
 Varkens worden bij het inladen en verladen geconfronteerd met stressvolle situaties: onbekende soortgenoten en mensen, een vreemde omgeving en lawaai, gladde ondergronden van laadbruggen en vrachtwagens. Van nature nemen varkens de tijd om nieuwe omgevingen voorzichtig te verkennen. ::contentAnnotation{ids="7"}[Werknemers, veelal onder tijdsdruk, zoeken hun toevlucht tot geweld om het inladen te bespoedigen. Undercoverbeelden van Ongehoord bij varkensslachterij Westfort (2020), toonden aan dat ook het uitladen van varkens niet lukte zonder de dieren te slaan.]
 
 ::contentAnnotation{ids="8"}[Onderweg worden de dieren blootgesteld aan nog meer stressfactoren zoals: onrust en agressie door mengen met onbekende soortgenoten in de wagens, blootstelling aan een onbekende omgeving, hitte- en koudestress, slechte ventilatie, gebrek aan ruimte, omgevingslawaai, honger en dorst, frustratie, slechte conditie van dieren, vermoeidheid en uitputting.]
 
-Miljoenen zieke varkens in de industrie
----------------------------------------
+## Miljoenen zieke varkens in de industrie
 
 Ondanks eerder aangekondigd “verscherpt toezicht” van NVWA, blijven varkenshouders zwakke, zieke en gewonde dieren op transport zetten naar verzamelplaatsen en slachterijen. Het is maar het topje van een ijsberg: jaarlijks worden 4,5 miljoen varkens ziek en sterven in varkensfokkerijen.
 
@@ -77,8 +73,7 @@ De biologische zeugenhouderij, met weidegang en ingestrooide ligruimtes, heeft h
 
 ::contentAnnotation{ids="17"}[Bij draaiingen van maag, milt en darmen speelt het voermanagement een rol, maar ook stress is een belangrijke factor die draaiingen in de hand werkt.]
 
-Dieren niet geholpen met controle en handhaving
------------------------------------------------
+## Dieren niet geholpen met controle en handhaving
 
 Toezichthouder NVWA heeft als taak de Europese en Nederlandse wetgeving inzake dierenwelzijn, diergezondheid en voedselveiligheid te controleren en handhaven. Maar de afgelopen jaren kwamen herhaaldelijk problemen aan het licht bij NVWA.
 

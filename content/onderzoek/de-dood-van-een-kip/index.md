@@ -10,8 +10,7 @@ title: 'De dood van een kip'
 article-date: '2020-02-02 16:56:11'
 ---
 
-Onderzoek naar Nederlandse pluimveeslachters
---------------------------------------------
+## Onderzoek naar Nederlandse pluimveeslachters
 
 Ongehoord publiceerde begin 2020 een uitgebreid onderzoek naar kippenslachthuizen nadat ze eerder al onderzoek heeft uitgevoerd naar [de levensomstandigheden van vleeskuikens](/onderzoek/vleeskuikens) (2013) en [leghennen](/onderzoek/legkippen) (2017). ::contentAnnotation{ids="1"}[ In Nederlandse slachthuizen worden op jaarbasis ruim 605 miljoen vleeskuikens en bijna 18 miljoen leghennen gedood.] Het slachten van kippen gaat gepaard met ernstige welzijnsproblemen zoals vang- en transportletsels, bewegingsbeperking, honger, dorst, hittestress, pijnlijke bedwelmingsmethoden en grote aantallen dieren die bij bewustzijn geslacht worden.
 

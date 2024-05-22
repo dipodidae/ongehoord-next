@@ -35,8 +35,7 @@ article-date: '2021-10-28 17:43:05'
 
 Een team van Ongehoord deed uitgebreid onderzoek naar de leefomstandigheden van varkens in het bedrijf van Annechien ten Have-Mellema. Over de periode van een jaar (augustus 2020 - september 2021) werden de stallen meermaals bezocht. Bij elk bezoek werden gestreste, gewonde en dode dieren gefilmd.
 
-Megastal
---------
+## Megastal
 
 De varkensfokkerij van ten Have-Mellema telt 600 zeugen, 4.900 vleesvarkens en een opfokstal voor 2680 gespeende biggen (leeftijd: van 4-5 weken tot 10 weken). Volgens de criteria van het Beter Leven keurmerk is ten Have’s bedrijf een megastal:
 
@@ -48,13 +47,11 @@ Het totaal aantal van 8 180 dieren is verspreid over verschillende afdelingen. I
 
 Voor biggen die net bij hun moeder zijn weggehaald zijn er 2680 plaatsen. De dartelstallen voor het afmesten van Hamletz-vleesvarkens tellen 80 groepshokken, per hok worden 62 dieren gehouden. ::contentAnnotation{ids="8"}[In de Beter Leven-reclame vernemen we dat Ten Have-Mellema dagelijks appels of peren plukt in haar tuin en aan de varkens voert.] Gezien de 4900 varkens in de dartelstallen is deze bewering onwaarschijnlijk.
 
-De aanleerplaats voor toekomstige fokzeugen
--------------------------------------------
+## De aanleerplaats voor toekomstige fokzeugen
 
 Omdat de leefomstandigheden van een zeug in de industrie ingaan tegen hun natuurlijke behoeftes, moeten jonge vrouwelijke varkens leren om zich aan te passen aan het productieproces. Ten Have heeft een oude inseminatiekamer ingericht als aanleerplaats. Voordat de dieren een eerste keer geïnsemineerd worden, verblijven ze in de aanleerplaats. Ze moeten onder meer leren eten in een automatische voerstation en gewend raken aan het ingeklemd staan in een kooi. Ook moet het sociale gedrag van de dieren aangepast worden aan de bedrijfsvoering. In hun latere leven zullen ze veel tijd doorbrengen in de zeugengroepsstal, waar er doorstroom is van dieren. Een wisselende groepssamenstelling is voor varkens onnatuurlijk en leidt tot stress en gevechten. Daarom probeert men de dieren in een aanleerplaats te laten wennen aan wisselende groepen. ::contentAnnotation{ids="9"}[Daarnaast moeten ze ook wennen aan handelingen die mensen met hen doen, zoals verplaatsingen tussen verschillende afdelingen, gewogen worden en geïnsemineerd worden.] In de aanleerplaats van ten Have filmde het onderzoeksteam varkens die ingeklemd staan tussen stangen, andere dieren liepen los. De dieren in het vrijloopgedeelte sliepen op een betonvloer met roosters, er was geen strooisel aanwezig. Drie varkens met open huidwonden lagen apart in kooien, eveneens zonder strooisel. ::contentAnnotation{ids="10"}[Het licht in de aanleerstal was ’s nachts aan, wat een inbreuk is op de voorschriften van het Beter Leven keurmerk.]
 
-De dekstal: kunstmatige inseminatie
------------------------------------
+## De dekstal: kunstmatige inseminatie
 
 In dekstallen worden de moedervarkens kunstmatig geïnsemineerd. Hierbij wordt een lange pipet met sperma bij het dier naar binnen gebracht. In de dekstal staan varkens ingeklemd in een inseminatiebox, een kooi van staal waarin het dier zich niet kan omdraaien of bewegen. ::contentAnnotation{ids="11"}[Ook sociale interactie en verzorgingsgedrag is niet mogelijk in de dekstal. Door gebrek aan ruimte schuren de varkens voortdurend tegen de stangen aan, wat kan lijden tot verwondingen.]
 
@@ -64,8 +61,7 @@ In de dekstal van ten Have filmde het onderzoeksteam 2 lange rijen inseminatieko
 
 Bij twee bezoeken in september 2021 stelde het onderzoeksteam vast dat het licht in de dekstal ’s nachts aan was.
 
-De groepsstal voor zwangere moederdieren
-----------------------------------------
+## De groepsstal voor zwangere moederdieren
 
 Tussen inseminatiebeurten en bevallingen in, verblijven zwangere moedervarkens in wettelijk verplichte groepshuisvesting. De dracht van een varken duurt 3,7 maanden.
 
@@ -79,8 +75,7 @@ Het onderzoeksteam filmde een moedervarken die staat te schuimbekken en loos kau
 
 Tijdens elk bezoek van het onderzoeksteam (2020 - 2021) was het licht ’s nachts aan in de zeugenstal.
 
-De kraamafdeling: ingeklemde moeders en dode biggen
----------------------------------------------------
+## De kraamafdeling: ingeklemde moeders en dode biggen
 
 In de kraamafdeling van ten Have werden moedervarkens en biggetjes gefilmd in twee types kraamhok: vrijloopkraamhokken en klassieke kraamkooien. In de klassieke kooien staan moedervarkens een maand lang ingeklemd tussen stangen. ::contentAnnotation{ids="19"}[Voor het Hamletz-concept (met 2 Beter Leven sterren) mogen de moeders alleen in vrijloopkraamhokken gehouden worden. De biggen uit de klassieke kraamkooien vallen onder 1 ster Beter Leven.]
 
@@ -98,8 +93,7 @@ In “The journey to make money from pig welfare” (verschenen in vakblad Pig P
 
 Het onderzoeksteam filmde in een apart stalgedeelte jonge biggen in hokken op betonvloeren met roosters, zonder strooisel. De biggen vertoonden diverse gezondheidsproblemen zoals diarree, gezwellen en kreupelheid.
 
-De dartelstallen: vleesvarkens met pootproblemen en aangevreten staarten
-------------------------------------------------------------------------
+## De dartelstallen: vleesvarkens met pootproblemen en aangevreten staarten
 
 Ook de dartelstallen, waar de vleesvarkens worden afgemest voor de slacht, zagen er anders uit dan in de Hamletz-reclames. Het voorste gedeelte van de hokken bestaat uit een kale roostervloer, waar de varkens verondersteld worden te urineren en poepen. In het achterste gedeelte lag net als in de zeugenstal, een bevuild laagje stro. De varkens kunnen naar buiten in een buitenloop met betonnen omheining, op een ondergrond van beton met roosters voor uitwerpselen.
 
@@ -109,8 +103,7 @@ Staartbijterij is een veel voorkomend gedragsprobleem bij vleesvarkens. Bijterij
 
 Ook kreupelheid komt regelmatig voor in de varkenshouderij. Veel voorkomende oorzaken van kreupelheid zijn gewrichts- en hersenvliesontstekingen, vaak door streptokokkeninfecties. Deze ziekteverwekkers geven gewrichtsontstekingen, soms aan meer dan één gewricht tegelijk. Kreupelheid kan ook veroorzaakt worden door osteochondrose, een gewrichtsaandoening die het gevolg is van het selectief fokken van varkens op groeisnelheid. ::contentAnnotation{ids="27"}[Het kraakbeen kan de versnelde groei van het varken niet bijbenen en er ontstaan gebreken in de gewrichten. Bewegingsaandoeningen zijn pijnlijk, waardoor het dier abnormaal gaat lopen of zelfs niet meer in staat is overeind te blijven staan.]::contentAnnotation{ids="28"}[]
 
-Inbreuken Beter Leven keurmerk
-------------------------------
+## Inbreuken Beter Leven keurmerk
 
 Enkele dagen nadat Ongehoord de misstanden in de dartelstallen filmde, kreeg Ten Have een onaangekondigd inspectiebezoek van de Stichting Beter Leven keurmerk. ::contentAnnotation{ids="21"}[Ten Have publiceerde op haar Hamletz-website een blog over de Beter Leven controle, waarin ze benadrukte dat “diergezondheid ook een belangrijk onderdeel is van het keurmerk. ”]
 

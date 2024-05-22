@@ -8,4 +8,3 @@ video: 'https://youtu.be/oaU5RuyuIOk'
 title: 'Hummelo  |  Zelhemseweg 15'
 article-date: '2013-08-29 14:24:02'
 ---
-

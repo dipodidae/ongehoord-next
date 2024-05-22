@@ -22,10 +22,10 @@ attachments:
     53: 'Heerkens, J.L.T. (2016) Risk factors associated with keel bone and foot pad disorders in laying hens housed in aviary systems. Poultry Sciences 95; p. 482-488'
     54: 'Borstbeenafwijkingen bij leghennen voorkomen. Boerenbond, Management &amp; Techniek 14; 15 augustus'
     55: 'Hoog percentage borstbeenletsel bij legkippen in voli&egrave;res. ILVO persbericht &ndash; donderdag 12 juni 2014'
-    39: 'http://www.poultryworld.net/Health/Articles/2015/6/Old-bird-diseases-occur-more-among-free-range-hens-1763127W/﻿'
-    44: 'https://www.wur.nl/nl/artikel/Vogelmijt-bloedluis.htm﻿'
+    39: 'http://www.poultryworld.net/Health/Articles/2015/6/Old-bird-diseases-occur-more-among-free-range-hens-1763127W/'
+    44: 'https://www.wur.nl/nl/artikel/Vogelmijt-bloedluis.htm'
     45: 'Van Veldhuizen (2003) Bloedluis: bestrijdingsmethoden en ervaringen uit de praktijk. In PAOD cursus: Rode Bloedluis, Houten'
-    52: 'https://www.wur.nl/nl/Dossiers/dossier/Vogelgriep-en-vogelpest-aviaire-influenza.htm﻿'
+    52: 'https://www.wur.nl/nl/Dossiers/dossier/Vogelgriep-en-vogelpest-aviaire-influenza.htm'
     56: 'Delezie, E. et al. (2016) Leghennen en voli&egrave;resysteem beter op elkaar afstemmen. Boerenbond, Management &amp; Techniek 10; 27 mei'
     57: 'Nasr, M.A.F. et al. (2013) Positive affective state induced by opioid analgesia in laying hens with bone fractures. Applied Animal Behaviour Science 147; p. 127-131'
     58: 'Nasr, M.A. et al. (2013) The effect of keel fractures on egg production, feed and water consumption in individual laying hens. British Poultry Science 54 (2); p. 165-170'
@@ -37,8 +37,7 @@ title: 'Gestoord gedrag, uitval en ziektes'
 article-date: '2017-12-20 01:43:33'
 ---
 
-Verenpikken
------------
+## Verenpikken
 
 Kippen in de moderne veehouderij vertonen vaak abnormaal gedrag als gevolg van stress en waarschijnlijk door het opgroeien zonder moeder.
 
@@ -54,13 +53,13 @@ Strooisel en ander afleidingsmateriaal helpt om verenpikken te verminderen, maar
 
 Kippen pikken meer agressief naar onbekende kippen dan naar bekende kippen. Echter bij groepen die groot genoeg zijn neemt het pikken vaak ook weer af. Dit komt waarschijnlijk doordat er zoveel onbekende kippen zijn, dat het ondoenlijk is om alle “concurrenten” weg te jagen.
 
- ::contentAnnotation{ids="33"}[ Jaarlijks worden van zo’n 54 miljoen kippen de snavel verkort (gebrand) om verwondingen als gevolg van pikken tegen te gaan ]. Sinds 2015 mag het verkorten alleen gebeuren met infraroodstraling, waarbij zoveel hitte wordt gegenereerd dat het snavelweefsel binnen een paar weken afsterft en het snavelpuntje eraf valt. ::contentAnnotation{ids="34"}[Vanaf 2018 wordt het verkorten van de snavel wettelijk verboden.]
+::contentAnnotation{ids="33"}[ Jaarlijks worden van zo’n 54 miljoen kippen de snavel verkort (gebrand) om verwondingen als gevolg van pikken tegen te gaan ]. Sinds 2015 mag het verkorten alleen gebeuren met infraroodstraling, waarbij zoveel hitte wordt gegenereerd dat het snavelweefsel binnen een paar weken afsterft en het snavelpuntje eraf valt. ::contentAnnotation{ids="34"}[Vanaf 2018 wordt het verkorten van de snavel wettelijk verboden.]
 
 ![](http://www.ongehoord.info/wp-content/uploads/2017/12/Barneveld_Scherp_7664Web-1024x683.jpg)::contentAnnotation{ids="35"}[ In verband met het verbod op snavelkappen wordt er al langere tijd onderzoek gedaan naar selectief fokken op minder agressie en naar andere staltypen met meer ruimte om snavelpikken te voorkomen ]. Echter, snavelpikken blijft tot nu toe welzijnsprobleem nummer 1 bij leghennen. ::contentAnnotation{ids="36"}[ In 2006 werd er onderzoek gedaan bij 29 verschillende biologische bedrijven en was de situatie nog alarmerend te noemen.] ::contentAnnotation{ids="37"}[Onderzoek uit 2017 laat zien dat er nog steeds veel onbekend is met betrekking tot verenpikken en vooral het voorkomen hiervan.] De vraag is dus of met het verbod op snavelkappen niet het ene welzijnsprobleem wordt opgelost, en het andere welzijnsprobleem wordt verergert.
 
 ### Uitval en ziektes
 
- ::contentAnnotation{ids="38"}[Toen boeren net begonnen met het op grote schaal houden van leghennen, steeg het percentage dieren wat vroegtijdig overleed (uitval) van 5-6% naar maar liefst 20%.] Dit had met name te maken met het aantal ziektes die toenamen door het dicht op elkaar houden van zoveel hennen. Alleen door allerlei (kunst)ingrepen, zoals bijvoorbeeld vaccineren, kon de uitval weer naar beneden worden gebracht. Ook het houden van hennen in kooien (legbatterijen) kwam hieruit voort; er was nu veel minder contact met soortgenoten en de kippen werden gescheiden van hun eigen uitwerpselen. Nu de legbatterijen zijn afgeschaft, komen sommige van deze problemen weer terug. ::contentAnnotation{ids="39"}[Zo is geconstateerd dat bij stalsystemen waarbij leghennen niet meer in kooien zitten, juist meer (oude) ziektes voorkomen, waarschijnlijk doordat kippen meer contact hebben met soortgenoten en met hun eigen uitwerpselen waar veel ziektekiemen in zitten.]
+::contentAnnotation{ids="38"}[Toen boeren net begonnen met het op grote schaal houden van leghennen, steeg het percentage dieren wat vroegtijdig overleed (uitval) van 5-6% naar maar liefst 20%.] Dit had met name te maken met het aantal ziektes die toenamen door het dicht op elkaar houden van zoveel hennen. Alleen door allerlei (kunst)ingrepen, zoals bijvoorbeeld vaccineren, kon de uitval weer naar beneden worden gebracht. Ook het houden van hennen in kooien (legbatterijen) kwam hieruit voort; er was nu veel minder contact met soortgenoten en de kippen werden gescheiden van hun eigen uitwerpselen. Nu de legbatterijen zijn afgeschaft, komen sommige van deze problemen weer terug. ::contentAnnotation{ids="39"}[Zo is geconstateerd dat bij stalsystemen waarbij leghennen niet meer in kooien zitten, juist meer (oude) ziektes voorkomen, waarschijnlijk doordat kippen meer contact hebben met soortgenoten en met hun eigen uitwerpselen waar veel ziektekiemen in zitten.]
 
 Over het algemeen volgt het uitvalpercentage gedurende de legperiode een duidelijk trend. De periode wanneer een koppel leghennen in een stal wordt geplaatst is zeer stressvol. Zo kunnen kippen elkaar dooddrukken, gaan ze verenpikken of sterven ze langzaam omdat ze het water en/of voedsel niet kunnen vinden in de nieuwe stal. Nadat de kippen gewend zijn aan de nieuwe omgeving, is de uitval van 30 tot 50 weken vrijwel stabiel en relatief laag (tot ongeveer 2%). ::contentAnnotation{ids="21"}[ Na 50 weken neemt de uitval echter weer toe tot ongeveer 8%, vooral omdat de hennen dan eigenlijk al “versleten” zijn en de weerstand afneemt.]
 
@@ -80,23 +79,23 @@ Inmiddels bekend en berucht vanwege het fipronil schandaal, waarbij ruim 2,5 mil
 
 De vogelmijt gedijt dus erg goed onder de zeer onnatuurlijke omstandigheden waarin leghennen worden gehouden.
 
-### *E.coli*
+### _E.coli_
 
-Een infectie met de bacterie *Escherichia coli (E.coli)* is een van de belangrijkste oorzaken van uitval [source title="21"]. Meestal betreft het een specifiek type *E.coli* ook wel aangeduid als APEC (Avian Pathogenic *E.Coli*) en wordt deze ziekte colibacillose genoemd.
+Een infectie met de bacterie _Escherichia coli (E.coli)_ is een van de belangrijkste oorzaken van uitval [source title="21"]. Meestal betreft het een specifiek type _E.coli_ ook wel aangeduid als APEC (Avian Pathogenic _E.Coli_) en wordt deze ziekte colibacillose genoemd.
 
 ::contentAnnotation{ids="46"}[ De infectie komt vaak voor als zogenaamde secundaire infectie. Dit betekent dat de weerstand van de hen al laag is door een andere oorzaak, zoals bijvoorbeeld bloedmijt of verenpikken en vervolgens krijgt de normaal gesproken “onschuldige” darmbacterie de kans om flink te groeien en andere lichaamsdelen te infecteren. Ook zorgen bijvoorbeeld te hoge ammoniakconcentraties, overbezetting of virale infecties voor verzwakking van het ademhalingsepitheel en maken de weg vrij voor kolonisatie door een APEC.]
 
 ::contentAnnotation{ids="47"}[ De grootse risicofactoren voor een infectie zijn: temperatuur in de stal, de hoeveelheid kippen per vierkante meter en de kwaliteit van het drinkwater.]
 
-*E.coli* groeit het liefst bij een temperatuur van 18-44°C en het stalklimaat is daarom ideaal met een constante temperatuur van ongeveer 20°C.
+_E.coli_ groeit het liefst bij een temperatuur van 18-44°C en het stalklimaat is daarom ideaal met een constante temperatuur van ongeveer 20°C.
 
 ::contentAnnotation{ids="48"}[ Hoe meer leghennen in de stal hoe groter de kans op infecties. Een toename van het stalvolume met 1 liter per hen, zorgt al voor een 33% lager risico op colibacillose.]
 
-![](http://www.ongehoord.info/wp-content/uploads/2017/12/Barneveld_Scherp_7765Web-683x1024.jpg)### *Vogelgriep*
+![](http://www.ongehoord.info/wp-content/uploads/2017/12/Barneveld_Scherp_7765Web-683x1024.jpg)### _Vogelgriep_
 
 Vogelgriep is waarschijnlijk voor de meeste mensen de bekendste kippenziekte omdat dit regelmatig in het nieuws is vanwege de vele ruimingen. Vogelgriep kent twee varianten, de milde variant (laagpathogeen) en de gevaarlijke variant (hoogpathogeen). Deze laatste wordt ook wel vogelpest genoemd. Dieren die de milde variant hebben, vertonen nauwelijks ziekteverschijnselen. Toch worden ook deze leghennen geruimd, omdat de milde variant over kan gaan naar de gevaarlijke vorm. In zeldzame gevallen kunnen bepaalde typen vogelgriep ook mensen besmetten.
 
-In 2003 werd maar liefst een derde van de hele pluimveel stapel vernietigd in verband met vogelgriep. Dertig miljoen dieren werden met stroomstoten of door vergassing omgebracht. Het betrof destijds de H7N7 variant, waar ook 89 mensen mee werden besmet. Een van hen overleefde dat niet.  
+In 2003 werd maar liefst een derde van de hele pluimveel stapel vernietigd in verband met vogelgriep. Dertig miljoen dieren werden met stroomstoten of door vergassing omgebracht. Het betrof destijds de H7N7 variant, waar ook 89 mensen mee werden besmet. Een van hen overleefde dat niet.
 In 2016 zijn meer dan 1 miljoen leghennen geruimd vanwege een H5N8 variant om verspreiding naar andere bedrijven tegen te gaan. In dat jaar vond de langste ophokplicht (kippen verplicht binnen houden) ooit in Nederland plaats, namelijk 5 maanden. Er was geen besmetting naar mensen toe bij deze variant.
 
 In december 2017 is er opnieuw vogelgriep vastgesteld op een vleeseemden bedrijf en worden 16.000 eenden “geruimd”. Omdat het vermoedelijk een hoogpathogene H5 variant betreft, is er een landelijke ophokplicht uitegeroepen.
@@ -115,7 +114,7 @@ Ook bij deze ziekte zorgen de onnatuurlijke omstandigheden waaronder de kippen w
 
 ::contentAnnotation{ids="54"}[ Een Vlaams onderzoek uit 2015 liet zien dat na 60 weken 60% van de leghennen in volière-stallen een borstbeenafwijking had ]. ::contentAnnotation{ids="55"}[Uit onderzoek van het Instituut voor Lanbouw- en Visserijonderzoek (ILVO) in 47 Belgische volière stallen bleek dat maar liefst 82,5% van de hennen aan het einde van de productieronde één of enkele breuken had opgelopen. Bij grondhuisvesting lag dit percentage op 58% en bij verrijkte kooien op 62%]. ::contentAnnotation{ids="56"}[ Het ILVO onderzoek liet ook zien dat 59,8 % van de onderzochte hennen een kromming (afwijking) van het borstbeen had ]. ::contentAnnotation{ids="53"}[ Afwijkingen worden met name veroorzaakt door de vorm en het materiaal van zitstokken; harde, onbuigzame materialen leveren meer deformaties van het borstbeen op dan zachtere/buigzame materialen ]. Wanneer een hen op een zitstok zit, steunt namelijk twee derde van haar gewicht op het borstbeen.
 
- ::contentAnnotation{ids="57"}[ Breuken en herstelde breuken hebben een grote invloed op het welzijn van de hennen. Zo bleek dat hennen met herstelde breuken chronisch pijn lijden ]. ::contentAnnotation{ids="58"}[ Daarnaast verminderen (herstelde) breuken de mobiliteit van de hen en hebben ook een negatieve invloed op de eierproductie ].
+::contentAnnotation{ids="57"}[ Breuken en herstelde breuken hebben een grote invloed op het welzijn van de hennen. Zo bleek dat hennen met herstelde breuken chronisch pijn lijden ]. ::contentAnnotation{ids="58"}[ Daarnaast verminderen (herstelde) breuken de mobiliteit van de hen en hebben ook een negatieve invloed op de eierproductie ].
 
 ### Botontkalking
 
@@ -127,7 +126,7 @@ Ook bij deze ziekte zorgen de onnatuurlijke omstandigheden waaronder de kippen w
 
 Ook problemen aan de voeten/voetzolen komen veel voor (hyperkeratose, voetzool dermatitus en “bumble foot”). Belangrijke factoren voor het veroorzaken van deze problemen zijn: het staltype, nat strooisel, zitstok- en vloermateriaal, zitstokgedrag en slechte poothygiëne.
 
- ::contentAnnotation{ids="61"}[ Hyperkeratose is een sterke verhoorning van de huid van de voeten is. Voetzool dermatitus is een onderhuidse ontsteking van de voetzool wat kan leiden tot dood weefsel en zweren. In erge gevallen kan dit overgaan tot bolvormige laesies en zwelling; de zogenaamde “Bumble foot”, wat een erg pijnlijke aandoening is. “Bumble foot” komt met name voor in systemen met (harde) zitstokken. Een ondergrond met slechte hygiëne zoals nat strooisel of mest, vergroot de kans op het “bumble foot” syndroom ]. Dit is vaker het geval bij scharrelstallen met een harde ondergrond en een vrije uitloop met weinig begroeiing.
+::contentAnnotation{ids="61"}[ Hyperkeratose is een sterke verhoorning van de huid van de voeten is. Voetzool dermatitus is een onderhuidse ontsteking van de voetzool wat kan leiden tot dood weefsel en zweren. In erge gevallen kan dit overgaan tot bolvormige laesies en zwelling; de zogenaamde “Bumble foot”, wat een erg pijnlijke aandoening is. “Bumble foot” komt met name voor in systemen met (harde) zitstokken. Een ondergrond met slechte hygiëne zoals nat strooisel of mest, vergroot de kans op het “bumble foot” syndroom ]. Dit is vaker het geval bij scharrelstallen met een harde ondergrond en een vrije uitloop met weinig begroeiing.
 
 ::contentAnnotation{ids="53"}[ In een onderzoek bij 47 bedrijven in België kreeg maar liefst 71% van de leghennen te maken met voetproblemen in een periode van 60 weken. Hyperkeratose was het meest voorkomend met 42 % ].
 

@@ -8,4 +8,3 @@ video: 'https://youtu.be/0kpte0dX5nM'
 title: 'Voorthuizen | Lange Zuiderweg 118'
 article-date: '2013-08-29 14:24:03'
 ---
-

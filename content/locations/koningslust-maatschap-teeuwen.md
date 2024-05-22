@@ -8,4 +8,3 @@ video: 'https://youtu.be/4j10IZ9oNBU'
 title: 'Koningslust | Maatschap Teeuwen'
 article-date: '2013-08-29 14:24:04'
 ---
-

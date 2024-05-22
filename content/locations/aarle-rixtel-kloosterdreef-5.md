@@ -9,7 +9,6 @@ title: 'Aarle-Rixtel | Kloosterdreef 5'
 article-date: '2013-08-29 14:24:00'
 ---
 
-John en Maarten Rooijakkers
-===========================
+# John en Maarten Rooijakkers
 
 Een deel van de stallen van de gebroeders Rooijakkers is te bezichtigen door het publiek, het zijn zogenaamde zichtstallen. De Rooijakkers treden regelmatig op in de media. Het onderzoeksteam zag dode biggen, tumoren en stereotiep gedrag.

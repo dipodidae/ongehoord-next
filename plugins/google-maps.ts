@@ -1,4 +1,5 @@
 import { useMapsStore } from '@/stores/maps'
+
 export default defineNuxtPlugin(() => {
   const config = useRuntimeConfig()
 
